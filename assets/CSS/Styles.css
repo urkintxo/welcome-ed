@@ -1,0 +1,16 @@
+      .article {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+        .article-sport{
+            background-color: aqua;
+        }
+        .article-news {
+            background-color: yellowgreen;
+        }
+        h1{
+            font-size: large;
+        }
+        #p-footer{
+            color: aliceblue;
+            background-color: black;
+        }
